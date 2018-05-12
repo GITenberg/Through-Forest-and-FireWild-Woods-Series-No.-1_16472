@@ -1,0 +1,38 @@
+_repo: Through-Forest-and-FireWild-Woods-Series-No.-1_16472
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16472-h/images/ffcover.jpg
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Forest fires -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Through Forest and Fire
+
+  Wild-Woods Series No. 1'
+url: http://www.gutenberg.org/ebooks/16472
